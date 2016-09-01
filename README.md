@@ -1,5 +1,5 @@
 # Practice-of-JSRG
-\ \ A Systematic Practice of Judging the Success of a Robotic Grasp Using Convolutional Neural Network
+>  A Systematic Practice of Judging the Success of a Robotic Grasp Using Convolutional Neural Network
 
 ##Brief description of the Practice
   In order to collect pictures, we construct a data acquisition platform capable of robot arm grasping and photo capturing.
@@ -27,7 +27,7 @@ All of the instructions packed and sent to robot arm are done by some specific p
 
 * Network train and test: tf_inputs.py, Robot_data.py, RobotNet.py, Robot_Train_Test.py, Nets.py
 
-  `Attention`: Before you run the scripts, you need to configure the Global Variable in the begin of the scripts. 
+<br/>Attention: Before you run the scripts, you need to configure the Global Variable in the begin of the scripts. 
 
 
-  Please contact to me for more information. `Email address:767924520@qq.com`
+<br/>Please contact to me for more information. Email address:767924520@qq.com
