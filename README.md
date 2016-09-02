@@ -10,7 +10,7 @@
 > Finally we constructed our nets base on tensorflow and develop a set of programs for network training and testing.
 
 ## Brief description of the composition
-> All of the python scripts are located in root directory of our project. And raw images are located in data directory.(But we only provide a little raw images for you in github)
+> All of the python scripts are located in root directory of our project. And raw images are located in data directory.(But we only provide a few raw images for you in github)
 
 > In converted_data directory, some files with the suffix 'tfrecords' are converted by raw images. And those data files are inputed into Network.
 
@@ -29,4 +29,4 @@
 
 > Attention: Before you run the scripts, you need to configure the Global Variable in the begin of the scripts. 
 
-> Please contact to me for more information. Email address:767924520@qq.com
+> Please contact me for more information. Email address:767924520@qq.com
